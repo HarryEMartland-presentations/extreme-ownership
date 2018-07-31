@@ -9,6 +9,8 @@ BookingGo
 @snapend
 
 @snap[south-west]
-@martlandh - harry.martland@booking.com
+<span class="smallText">
+harry.martland@booking.com
+</span>
 @snapend
 ---
