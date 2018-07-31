@@ -1,11 +1,11 @@
 @title[Extreme Ownership]
 
 @snap[south-east]
-<div class="smallText'>
+<span class="smallText">
 Harry Martland  
 Senior Software Engineer  
 BookingGo
-</div>
+</span>
 @snapend
 
 @snap[south-west]
