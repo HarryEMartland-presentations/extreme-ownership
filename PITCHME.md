@@ -1,8 +1,14 @@
-# Extreme Ownership
+@title[Extreme Ownership]
 
 @snap[south-east]
+<div class="smallText'>
 Harry Martland  
 Senior Software Engineer  
-![](./bookinggo.png)
+BookingGo
+</div>
+@snapend
+
+@snap[south-west]
+@martlandh - harry.martland@booking.com
 @snapend
 ---
