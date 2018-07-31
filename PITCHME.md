@@ -10,7 +10,7 @@ BookingGo
 
 ---
 
-## What is Ownership
+## What is Ownership?
 
 Note:
 
