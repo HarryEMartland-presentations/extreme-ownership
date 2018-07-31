@@ -1,4 +1,4 @@
-@title[Extreme Ownership]
+#Extreme Ownership
 
 @snap[south-east]
 <span class="smallText">
@@ -8,9 +8,4 @@ BookingGo
 </span>
 @snapend
 
-@snap[south-west]
-<span class="smallText">
-harry.martland@booking.com
-</span>
-@snapend
 ---
