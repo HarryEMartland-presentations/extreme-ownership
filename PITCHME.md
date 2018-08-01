@@ -6,7 +6,7 @@ Senior Software Engineer
 **@color[darkblue](Booking)@color[deepskyblue](Go)**
 @snapend
 
----
+---?image=images/pounds-stacked.jpg
 
 ## What is Ownership?
 
@@ -19,9 +19,9 @@ You can do whatever you like with it
 
 Leasing a car vs owning a car - The company will pay for services
 
----
+---?image=images/close-up-code.jpg
 
-## Ownership for Software
+## @color[white](Ownership for Software)
 
 Note:
 Responsibility for bugs
@@ -29,7 +29,7 @@ Fixing things
 Looking after legacy applications
 Stopping problems from happening again
 
----
+---?image=images/jumping-bike.jpg
 
 ## Extreme Ownership
 
@@ -39,7 +39,7 @@ Stop saying "that's not my problem", "they should sort it out"
 If you want something doing then get it done
 Take ownership of other peoples actions
 
----?image=images/close-up-code.jpg
+---?image=images/fake-matrix.jpg
 
 ## @color[white](Extreme Ownership for Software)
 
@@ -51,11 +51,11 @@ Try to make it better, fix the bugs, work with the users.
 You are investigating a bug but find the root cause to be in another teams domain. 
 Rather than chucking the bug over the fence work with the other team to fix it together.
 
----
+---?image=images/thinking-monkey.jpg
 
 ## When should you take Extreme Ownership?
 
----
+---?image=images/thumbs-up.jpg
 
 ## Examples
 
