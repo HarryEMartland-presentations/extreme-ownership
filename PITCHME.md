@@ -3,7 +3,7 @@
 @snap[south-east]
 Harry Martland  
 Senior Software Engineer  
-@color[darkblue](Booking)@color[deepskyblue](Go)
+**@color[darkblue](Booking)@color[deepskyblue](Go)**
 @snapend
 
 ---
