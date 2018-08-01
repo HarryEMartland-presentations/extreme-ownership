@@ -53,6 +53,8 @@ Try to make it better, fix the bugs, work with the users.
 You are investigating a bug but find the root cause to be in another teams domain. 
 Rather than chucking the bug over the fence work with the other team to fix it together.
 
+---
+
 ## When should you take Extreme Ownership
 
 ---
