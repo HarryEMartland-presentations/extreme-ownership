@@ -41,7 +41,7 @@ Take ownership of other peoples actions
 
 ---?image=images/close-up-code.jpg
 
-## @color[white](Extreme Ownership for Software)
+## @color[white](@text-shadow[-2px 0 black, 0 2px black, 2px 0 black, 0 -2px black](Extreme Ownership for Software))
 
 Note: 
 
