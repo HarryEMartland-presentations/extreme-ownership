@@ -1,11 +1,9 @@
 # Extreme Ownership
 
 @snap[south-east]
-<span class="smallText">
-Harry Martland  
-Senior Software Engineer  
-BookingGo
-</span>
+#### Harry Martland  
+#### Senior Software Engineer  
+#### BookingGo
 @snapend
 
 ---
