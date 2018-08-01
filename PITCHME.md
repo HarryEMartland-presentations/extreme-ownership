@@ -53,7 +53,7 @@ Rather than chucking the bug over the fence work with the other team to fix it t
 
 ---
 
-## When should you take Extreme Ownership
+## When should you take Extreme Ownership?
 
 ---
 
