@@ -12,6 +12,8 @@ Senior Software Engineer
 
 Note:
 
+Definition: the act, state, or right of possessing something.
+
 Something which belongs to you
 So something you care about
 Something you look after
