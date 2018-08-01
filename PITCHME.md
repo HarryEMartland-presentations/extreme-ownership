@@ -39,7 +39,7 @@ Stop saying "that's not my problem", "they should sort it out"
 If you want something doing then get it done
 Take ownership of other peoples actions
 
----
+---?image=https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 
 ## Extreme Ownership for Software
 
