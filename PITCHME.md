@@ -41,7 +41,7 @@ Take ownership of other peoples actions
 
 ---?image=images/close-up-code.jpg
 
-## Extreme Ownership for Software
+## @color[white](Extreme Ownership for Software)
 
 Note: 
 
